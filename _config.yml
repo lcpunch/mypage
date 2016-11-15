@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: http://lcpunch.github.io
-baseurl: "/lcpunch"
+url: https://lcpunch.github.io/
+baseurl: "/mypage"
 
 # language attribute in <html> element.
 lang: en
