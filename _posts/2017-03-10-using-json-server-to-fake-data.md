@@ -5,7 +5,7 @@ title: Using json-server to fake Rest data
 A few months ago, I needed an REST API to test an application. I did some research on google, and I found [json-server](https://github.com/typicode/json-server).
 
 Json-server really is what it is. An API running over any json. It's really simple to configurate and get it running.
-
+<!--more-->
 So to get started, you need just to install json-server.
 
 {% highlight bash %}
